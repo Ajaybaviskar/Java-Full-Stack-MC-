@@ -14,7 +14,7 @@ public class Interface_Example1 {
     public static void main(String args[]) {
         A obj = new A();
         obj.Display();
-        System.out.println(obj.Eyes);
+        // System.out.println(obj.Eyes);    
 
     }
 }
