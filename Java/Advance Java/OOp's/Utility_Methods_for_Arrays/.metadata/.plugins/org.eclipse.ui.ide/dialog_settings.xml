@@ -6,6 +6,8 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="/media/kaliab/Developers/LernMall/Chapter8_String_Class_And_Its_Method"/>
+			<item value="/media/kaliab/Developers/LernMall/Chapter9_StringBuffer_Class_and_its_Methods"/>
 			<item value="/media/kaliab/Developers/Missoin Crack/Java Full Stack Development/Java-Full-Stack-MC-/Java/Advance Java/Java Collection/Collection_Framework"/>
 			<item value="/media/kaliab/Developers/Missoin Crack/Java Full Stack Development/Java-Full-Stack-MC-/Java/Advance Java/tettt"/>
 			<item value="/media/kaliab/Developers/Missoin Crack/Java Full Stack Development/Java-Full-Stack-MC-/Java/Advance Java/OOp&apos;s/Utility_Methods_for_Arrays"/>
